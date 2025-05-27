@@ -1,0 +1,15 @@
+{
+  "name": "sturdy-parakeet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bk2ToM64.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "unzipper": "^0.12.3"
+  }
+}
